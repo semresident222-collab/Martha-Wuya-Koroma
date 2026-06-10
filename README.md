@@ -1,6 +1,9 @@
 # marthakoroma.com
 
-Professional portfolio of Martha Wuya Koroma — physician, researcher, systems thinker.
+The professional portfolio of Martha Wuya Koroma 
+
+Physician · Researcher · Systems Thinker 
+At the intersection of neurodivergence, healthcare systems, and structural inequality in African women.
 
 Built with Next.js 14 (App Router), TypeScript, and Tailwind CSS. Fully static output,
 self-hosted fonts (no Google Fonts request — clean under German GDPR case law),
