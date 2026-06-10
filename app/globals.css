@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --font-fraunces: 'Fraunces Variable', Georgia, serif;
+  --font-mulish: 'Mulish Variable', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono Variable', ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: #F2EDE3;
+  color: #1C1814;
+}
+
+/* Subtle paper grain on the base — barely there, adds warmth */
+.grain::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' /%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Scroll reveal — respects reduced motion */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .animate-gilt-drift {
+    animation: none !important;
+  }
+}
+
+/* Focus visibility — keyboard users */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #A67C3D;
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+::selection {
+  background: #A67C3D;
+  color: #F2EDE3;
+}
+
+/* On touch devices (no hover), doors stay open so content is never trapped */
+@media (hover: none) {
+  .door > span[aria-hidden='true']:first-of-type {
+    transform: translateX(-100%);
+  }
+  .door > span[aria-hidden='true']:nth-of-type(2) {
+    transform: translateX(100%);
+  }
+  .door > span[aria-hidden='true']:nth-of-type(3),
+  .door > span[aria-hidden='true']:nth-of-type(4) {
+    opacity: 0;
+  }
+}
