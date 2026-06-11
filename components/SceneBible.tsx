@@ -64,7 +64,7 @@ export default function SceneBible() {
           index="02"
           eyebrow="Selected Work"
           title="The Scene Bible"
-          intro="An interactive film in three parts, on pharmaceutical regulatory failure and the neurodivergent experience of being processed by systems. Three doors. Three systems. Built with Remotion."
+          intro="An interactive film in three parts, on pharmaceutical regulatory failure and the neurodivergent experience of being processed by systems. Three doors. Three systems."
         />
 
         <div className="grid gap-6 md:grid-cols-3">
