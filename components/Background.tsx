@@ -16,7 +16,7 @@ const EDUCATION = [
     title: 'MD, Surgery Track',
     org: 'Horbachevsky Ternopil National Medical University, Ukraine',
     period: '2020 to Nov 2026',
-    note: 'Continued via clinical placements in Germany following displacement after the 2022 war in Ukraine.',
+    note: 'Continued via clinical placements in Germany.',
   },
   {
     title: 'MSc Cybersecurity',
@@ -41,9 +41,15 @@ const EDUCATION = [
 const BACKGROUND = [
   {
     title: 'Founder',
-    org: 'MetaVoxa & GlaceGrip, Berlin',
+    org: 'MetaVoxa, Berlin',
     period: '2023 to Present',
-    note: 'Founded the research company and product venture; filed three Gebrauchsmuster with DPMA; building GDPR-compliant health-data architecture for a Phase II digital biomarker validation trial.',
+    note: 'Holding company, research company, and product venture; filed three Gebrauchsmuster with DPMA; building GDPR-compliant health-data architecture for a Phase II digital biomarker validation trial.',
+  },
+  {
+    title: 'Founder',
+    org: 'Glacé Grip (under MetaVoxa), Berlin',
+    period: '2023 to Present',
+    note: 'Auto business specialising in cooling sleeves for machinery.',
   },
   {
     title: 'Public Diplomacy & Cultural Affairs Intern',
