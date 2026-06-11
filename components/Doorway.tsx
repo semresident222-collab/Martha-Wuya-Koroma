@@ -49,9 +49,9 @@ export default function Doorway() {
                 </span>
               </h2>
               <p className="mt-6 max-w-prose font-body text-base leading-relaxed text-parchment/85 md:text-lg">
-                MetaVoxa is the house: research, writing, cartography, and the
-                work that doesn&rsquo;t fit on a CV. Everything that made the
-                record possible, kept in its own rooms.
+                MetaVoxa is the house: reading &amp; writing, editorial cartography,
+                interdependent community and the work that doesn&rsquo;t fit on a CV.
+                Everything that made the record possible, kept in its own rooms.
               </p>
               <a
                 href="https://metavoxa.com"
