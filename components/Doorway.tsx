@@ -39,7 +39,7 @@ export default function Doorway() {
           <div className="mx-auto w-full max-w-content px-6 pb-14 md:px-10 md:pb-20">
             <Reveal className="max-w-2xl">
               <p className="font-mono text-xs uppercase tracking-eyebrow text-gilt-bright">
-                The threshold
+               Beyond the CV
               </p>
               <h2 className="mt-5 font-display text-3xl font-light leading-[1.1] text-parchment md:text-5xl">
                 The professional record lives here.
@@ -49,7 +49,7 @@ export default function Doorway() {
                 </span>
               </h2>
               <p className="mt-6 max-w-prose font-body text-base leading-relaxed text-parchment/85 md:text-lg">
-                MetaVoxa is the house: reading &amp; writing, editorial cartography,
+                MetaVoxa Atrium is the house: reading &amp; writing, editorial cartography,
                 interdependent community and the work that doesn&rsquo;t fit on a CV.
                 Everything that made the record possible, kept in its own rooms.
               </p>
