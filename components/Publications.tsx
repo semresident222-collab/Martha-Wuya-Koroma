@@ -41,7 +41,7 @@ export default function Publications() {
           index="03"
           eyebrow="Publications, Patents & Research"
           title="Building for what the data leaves out"
-          intro="A peer-reviewed credit, three filed patents, and a preprint, most of it pointed at one question: how do you measure an experience a system was never designed to register?"
+          intro="A peer-reviewed credit, filed patents, and preprints, most of it pointed at one question: how do you measure an experience a system was never designed to register?"
           dark
         />
 
