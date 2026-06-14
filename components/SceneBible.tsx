@@ -4,21 +4,21 @@ import Reveal from './Reveal';
 const DOORS = [
   {
     n: 'Door One',
-    title: 'The Building',
+    title: 'Aduhelm',
     system: 'Corporate approval',
-    body: 'Aduhelm, and what it means when a regulatory pathway bends toward the institution instead of the patient. A building you can walk into and not find the exit.',
+    body: 'What it means when a regulatory pathway bends toward the institution instead of the patient. A building you can walk into and not find the exit.',
     motif: 'building',
   },
   {
     n: 'Door Two',
-    title: 'The Willow',
+    title: 'KEYNOTE-991',
     system: 'Systemic harm',
     body: 'Regulatory failure as something that grows: slow, structural, rooted. The damage is not an event. It is a condition the system keeps watering.',
     motif: 'willow',
   },
   {
     n: 'Door Three',
-    title: 'The Mask',
+    title: 'Adult ADHD Digital Biomaker - Feasibility Assessment',
     system: 'Neurodivergent masking',
     body: 'What it costs to be legible to a system that was never calibrated for you. The performance of fitting, and the data that performance erases.',
     motif: 'mask',
