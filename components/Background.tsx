@@ -3,7 +3,7 @@ import Reveal from './Reveal';
 
 const PRACTICE = {
   role: 'Healthcare Professional (Pflegefachkraft)',
-  org: 'Vivantes · Haus Jungfernheide, Berlin',
+  org: 'Vivantes · Berlin',
   period: 'Sept 2023 to Present',
   points: [
     'Clinical patient records and safety protocols under German regulatory standards, in a high-volume inpatient environment.',
@@ -73,6 +73,7 @@ const CERTS = [
   'Drug Development & Product Management · UC San Diego',
   'Google Data Analytics',
   'AWS Training & Certification',
+  'ICH E6(R3) Principles for Good Clinical Practice',
 ];
 
 function Entry({
