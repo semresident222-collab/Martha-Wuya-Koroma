@@ -8,7 +8,7 @@ const DOORS = [
     system: 'Corporate approval',
     body: 'What it means when a regulatory pathway bends toward the institution instead of the patient. A building you can walk into and not find the exit.',
     motif: 'building',
-    href: 'https://cra.marthakoroma.com/door-1.html',
+    href: 'https://cra.marthakoroma.com',
   },
   {
     n: 'Door Two',
@@ -16,7 +16,7 @@ const DOORS = [
     system: 'Systemic harm',
     body: 'Regulatory failure as something that grows: slow, structural, rooted. The damage is not an event. It is a condition the system keeps watering.',
     motif: 'willow',
-    href: 'https://cra.marthakoroma.com/door-2.html',
+    href: 'https://cra.marthakoroma.com',
   },
   {
     n: 'Door Three',
@@ -24,7 +24,7 @@ const DOORS = [
     system: 'Neurodivergent masking',
     body: 'What it costs to be legible to a system that was never calibrated for you. The performance of fitting, and the data that performance erases.',
     motif: 'mask',
-    href: 'https://cra.marthakoroma.com/door-3.html',
+    href: 'https://cra.marthakoroma.com',
   },
 ];
 
