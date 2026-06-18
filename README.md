@@ -37,8 +37,28 @@ Functional Pain — on the gap between what a body reports and what a system is 
 Unrecognised, not invisible — the difference between being unseen and being unaccounted for, and why it matters clinically
 When the mask is also your culture — what masking costs when fitting in was never optional, and why that cost stays invisible to the clinic
 
+MetaVoxa
+
+MetaVoxa is the house that aims to merge clinical research methodology with Lived Experience as advanced data architectures. 
+Three arms, one purpose: making unrecognised neurodivergence visible and measurable in health policy.
+
+MetaVoxa Labs
+Research-grade infrastructure and filed patents. The technical and methodological engine.
+Digital Biomarker System for Culture-Calibrated ADHD Diagnosis (Gebrauchsmuster, DPMA, May 2026)
+GlacéGrip — cooling sleeves for machinery (Gebrauchsmuster, DPMA, May 2026)
+Bed Device with Integrated Weighing Function for Immobile Patients (Gebrauchsmuster, DPMA, May 2026)
+Preprint: Designing from the Inside — design rationale for a culture-calibrated digital biomarker system for adult ADHD diagnosis (Zenodo, 2026)
+Peer-reviewed: Evaluating the global landscape of suicide helpline services (The Lancet Psychiatry, 2025) — named collaborator on 105-country study
+
+MetaVoxa Press
+Essays on healthcare, recognition, and the experiences clinical literature tends to miss. 
+Tailored for neurodivergent, vulnerable, and unrecognised global health populations. Published every Tuesday.
+Functional Pain — on the gap between what a body reports and what a system is willing to record
+Unrecognised, not invisible — the difference between being unseen and being unaccounted for, and why it matters clinically
+When the mask is also your culture — what masking costs when fitting in was never optional, and why that cost stays invisible to the clinic
+
 MetaVoxa Atrium
-The spatial home for reading, writing, editorial cartography, and interdependent community. The work that doesn't fit on a CV. 
+A custom-built cognitive extension — spatial, interactive, and architected around how I think. Reading, writing, editorial cartography, and interdependent community. The work that doesn't fit on a CV.
 
 Background
 
@@ -49,6 +69,7 @@ Clinical practice — Vivantes Netzwerk für Gesundheit, Berlin (Sept 2023–Pre
 Diplomatic experience — Embassy of the Republic of Sierra Leone, Berlin; Office of the Ambassador (2018–2023)
 McKinsey Forward Programme — selective leadership and structured-problem-solving programme
 Certifications: ICH-GCP E6(R3), Johns Hopkins Clinical Trial Operations, Drug Development & Pharmacoepidemiology, Data Management for Clinical Research (Vanderbilt), Regulatory Compliance (UPenn), Drug Development & Product Management (UC San Diego), Google Data Analytics, AWS Training & Certification
+
 Links
 
 Website: marthakoroma.com
