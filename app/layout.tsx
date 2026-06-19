@@ -79,8 +79,8 @@ export default function RootLayout({
       'https://orcid.org/0000-0003-4152-3863',
       'https://substack.com/@metavoxa',
       'https://metavoxa.com',
-      'https:www.instagram.com/kwissbae'
-      'https://github.com/sem-resident222-collab'
+      'https://www.instagram.com/kwissbae'
+      'https://github.com/semresident222-collab'
       'https://cra.marthakoroma.com'
     ],
     identifier: {
