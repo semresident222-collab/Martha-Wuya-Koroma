@@ -24,10 +24,10 @@ export const metadata: Metadata = {
     'healthcare systems',
     'Berlin',
     'MetaVoxa',
-    'MetaVoxa Atrium'
-    'MetaVoxa Press'
-    'Neurodivergent'
-    'ADHD Digital Biomarker'
+    'MetaVoxa Atrium',
+    'MetaVoxa Press',
+    'Neurodivergent',
+    'ADHD Digital Biomarker',
   ],
   authors: [{ name: 'Martha Wuya Koroma' }],
   alternates: { canonical: SITE_URL },
@@ -79,9 +79,9 @@ export default function RootLayout({
       'https://orcid.org/0000-0003-4152-3863',
       'https://substack.com/@metavoxa',
       'https://metavoxa.com',
-      'https://www.instagram.com/kwissbae'
-      'https://github.com/semresident222-collab'
-      'https://cra.marthakoroma.com'
+      'https://www.instagram.com/kwissbae',
+      'https://github.com/semresident222-collab',
+      'https://cra.marthakoroma.com',
     ],
     identifier: {
       '@type': 'PropertyValue',
