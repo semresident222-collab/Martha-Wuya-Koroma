@@ -12,7 +12,7 @@ const ENTRIES = [
   },
   {
     kind: 'Patent · Named inventor',
-    title: 'Digital Biomarker System for Culture-Calibrated ADHD Diagnosis',
+    title: 'Candidate Culture-Calibrated Digital Biomarker System',
     meta: 'Gebrauchsmuster, DPMA · May 2026',
   },
   {
