@@ -43,7 +43,7 @@ const BACKGROUND = [
     title: 'Founder',
     org: 'MetaVoxa, Berlin',
     period: '2023 to Present',
-    note: 'Holding company, research company, and product venture; filed three Gebrauchsmuster with DPMA; building GDPR-compliant health-data architecture for a Phase II digital biomarker validation trial.',
+    note: 'Holding company, research company, and product venture; filed three Gebrauchsmuster with DPMA; building GDPR-compliant health-data architecture for a Phase II candidate digital biomarker validation trial.',
   },
   {
     title: 'Founder',
