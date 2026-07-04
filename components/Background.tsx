@@ -2,9 +2,9 @@ import SectionHeader from './SectionHeader';
 import Reveal from './Reveal';
 
 const PRACTICE = {
-  role: 'Healthcare Professional (Pflegefachkraft)',
+  role: 'Healthcare Professional',
   org: 'Vivantes · Berlin',
-  period: 'Sept 2023 to Present',
+  period: 'Sept 2024 to Present',
   points: [
     'Clinical patient records and safety protocols under German regulatory standards, in a high-volume inpatient environment.',
     'Ground-level understanding of patient eligibility, protocol-level care, and institutional compliance: the same machinery a monitor verifies, seen from inside the ward.',
