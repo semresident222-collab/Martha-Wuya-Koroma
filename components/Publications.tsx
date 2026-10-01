@@ -32,9 +32,9 @@ const ENTRIES = [
     meta: 'Clinical Researcher (ACRP) · Accepted September 2026, publication pending',
   },
   {
-    kind: 'Presentation · Selected',
+    kind: 'Presentation',
     title: 'Falling Walls Lab Berlin-Adlershof',
-    meta: 'Selected to pitch a culture-calibrated digital biomarker system for adult ADHD · July 2026',
+    meta: 'Presented a 3-minute pitch on a culture-calibrated digital biomarker system for adult ADHD · July 2026',
   },
   {
     kind: 'Preprint',
