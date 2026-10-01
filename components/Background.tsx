@@ -74,7 +74,7 @@ const CERTS = [
   'Google Data Analytics',
   'AWS Training & Certification',
   'Clinical Trials: Good Clinical Practice (ICH E6 GCP Investigator Site Training) \u00b7 Novartis via Coursera, 2025',
-  'Good Clinical Practice certificate \u00b7 Free Good Clinical Practice, 2026',
+  'Good Clinical Practice: ICH E6(R3) Principles · FreeGCP.com (TransCelerate-recognised curriculum), 2026',
 ];
 
 function Entry({
