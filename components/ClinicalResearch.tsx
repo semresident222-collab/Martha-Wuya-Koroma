@@ -36,7 +36,7 @@ const ROLES = [
   },
 ];
 
-const TOOLING = ['Medidata Rave', 'REDCap', 'Veeva CTMS', 'ICH-GCP', 'ICH E6(R3)', 'TMF / ISF'];
+const TOOLING = ['Medidata Rave', 'REDCap', 'Veeva CTMS', 'ICH-GCP', 'TMF / ISF'];
 
 export default function ClinicalResearch() {
   return (

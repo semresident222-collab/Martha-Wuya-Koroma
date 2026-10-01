@@ -21,6 +21,22 @@ const ENTRIES = [
     meta: 'Gebrauchsmuster, DPMA · Registered August 2026',
   },
   {
+    kind: 'Utility model · Named inventor',
+    title: 'Bed Device with Integrated Weighing Function for Immobile Patients',
+    meta: 'Gebrauchsmuster, DPMA · Filed May 2026',
+  },
+  {
+    kind: 'Accepted for publication',
+    title:
+      'Built for the Average: Recruitment and Retention Design for Populations Standard Protocols Exclude',
+    meta: 'Clinical Researcher (ACRP) · Accepted September 2026, publication pending',
+  },
+  {
+    kind: 'Presentation · Selected',
+    title: 'Falling Walls Lab Berlin-Adlershof',
+    meta: 'Selected to pitch a culture-calibrated digital biomarker system for adult ADHD · July 2026',
+  },
+  {
     kind: 'Preprint',
     title:
       'Designing from the Inside: A Design Rationale and Process Record for a Culture-Calibrated Digital Biomarker System for Adult ADHD Diagnosis',
@@ -36,7 +52,7 @@ export default function Publications() {
           index="03"
           eyebrow="Publications, Utility Models & Research"
           title="Building for what the data leaves out"
-          intro="A peer-reviewed credit, filed utility models, and preprints, most of it pointed at one question: how do you measure an experience a system was never designed to register?"
+          intro="A peer-reviewed credit, an accepted article, filed utility models, and preprints, most of it pointed at one question: how do you measure an experience a system was never designed to register?"
           dark
         />
 
