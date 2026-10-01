@@ -49,6 +49,12 @@ export default function About() {
                 around each other.
               </p>
               <p>
+                I&rsquo;m Sierra Leonean and I work from Berlin. The question
+                that runs through my research is why neurodivergence goes
+                unrecognised in African women, and what it would take for a
+                system to see it.
+              </p>
+              <p>
                 So my work runs along a single thread, even when the titles
                 don&rsquo;t match. Clinical research taught me how systems are
                 meant to work. Original research and utility-model filings taught

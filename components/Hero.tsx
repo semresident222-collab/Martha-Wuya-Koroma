@@ -10,7 +10,7 @@ export default function Hero() {
         {/* Left: the inscription */}
         <div className="animate-fade-up">
           <p className="font-mono text-xs uppercase tracking-eyebrow text-gilt">
-            Berlin, Germany
+            Sierra Leonean &middot; Berlin, Germany
           </p>
 
           <h1 className="mt-6 font-display text-[2.7rem] font-light leading-[1.02] tracking-tight text-ink sm:text-6xl md:text-7xl">

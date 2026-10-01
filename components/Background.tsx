@@ -73,7 +73,8 @@ const CERTS = [
   'Drug Development & Product Management · UC San Diego (via Coursera)',
   'Google Data Analytics',
   'AWS Training & Certification',
-  'ICH E6(R3) Principles for Good Clinical Practice',
+  'Good Clinical Practice (ICH E6(R3)) refresher, 2026',
+  'Good Clinical Practice (ICH E6(R2)) \u00b7 Novartis, 2025',
 ];
 
 function Entry({
