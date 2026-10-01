@@ -2,8 +2,8 @@ import SectionHeader from './SectionHeader';
 import Reveal from './Reveal';
 
 const PRACTICE = {
-  role: 'Healthcare Professional',
-  org: 'Vivantes · Berlin',
+  role: 'Healthcare Assistant (Pflegekraft)',
+  org: 'Vivantes Hauptstadtpflege · Berlin',
   period: 'Sept 2024 to Present',
   points: [
     'Clinical patient records and safety protocols under German regulatory standards, in a high-volume inpatient environment.',
@@ -19,15 +19,15 @@ const EDUCATION = [
     note: 'Continued via clinical placements in Germany.',
   },
   {
-    title: 'MSc Cybersecurity',
-    org: 'One-year fast-track programme',
-    period: '',
+    title: 'Cybersecurity certificate',
+    org: 'Careerera',
+    period: '2023 to 2024',
     note: '',
   },
   {
     title: 'BSc Business Administration',
-    org: 'LICCSAL Business College · GPA 4.0',
-    period: '',
+    org: 'LICCSAL Business College, Freetown · GPA 4.0',
+    period: 'Oct 2019 to May 2023',
     note: 'Data analysis, project management, organisational strategy.',
   },
   {
@@ -41,15 +41,15 @@ const EDUCATION = [
 const BACKGROUND = [
   {
     title: 'Founder',
-    org: 'MetaVoxa, Berlin',
+    org: 'MetaVoxa, Berlin (in formation)',
     period: '2023 to Present',
-    note: 'Holding company, research company, and product venture; filed three Gebrauchsmuster with DPMA; building GDPR-compliant health-data architecture for a Phase II candidate digital biomarker validation trial.',
+    note: 'Digital health research and publishing platform with three arms (Press, Research, Labs). A holding structure is planned. Building GDPR-aligned health-data architecture for a planned candidate digital biomarker validation pilot.',
   },
   {
     title: 'Founder',
-    org: 'Glacé Grip (under MetaVoxa), Berlin',
-    period: '2023 to Present',
-    note: 'Auto business specialising in cooling sleeves for machinery.',
+    org: 'Gla\u00e9Grip, Berlin',
+    period: '2026 to Present',
+    note: 'Cooling steering wheel sleeve for summer driving. Utility model registered with the DPMA (August 2026).',
   },
   {
     title: 'Public Diplomacy & Cultural Affairs Intern',
@@ -61,19 +61,18 @@ const BACKGROUND = [
     title: 'Diplomatic Aide & Strategic Assistant',
     org: 'Office of the Ambassador, Republic of Sierra Leone',
     period: '2018 to 2020',
-    note: 'Briefing files and confidential records across presidential meetings, state functions, and diplomatic receptions.',
+    note: 'Briefing files and confidential records across high-level meetings, state functions, and diplomatic receptions.',
   },
 ];
 
 const CERTS = [
-  'Clinical Trial Operations · Johns Hopkins',
-  'Drug Development & Pharmacoepidemiology · Johns Hopkins',
-  'Data Management for Clinical Research · Vanderbilt',
-  'Regulatory Compliance · University of Pennsylvania',
-  'Drug Development & Product Management · UC San Diego',
+  'Clinical Trial Operations · Johns Hopkins (via Coursera)',
+  'Drug Development & Pharmacoepidemiology · Johns Hopkins (via Coursera)',
+  'Data Management for Clinical Research · Vanderbilt (via Coursera)',
+  'Regulatory Compliance · University of Pennsylvania (via Coursera)',
+  'Drug Development & Product Management · UC San Diego (via Coursera)',
   'Google Data Analytics',
   'AWS Training & Certification',
-  'ICH E6(R3) Principles for Good Clinical Practice',
 ];
 
 function Entry({

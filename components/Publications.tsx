@@ -11,24 +11,19 @@ const ENTRIES = [
     hrefLabel: 'View on DOI',
   },
   {
-    kind: 'Patent · Named inventor',
-    title: 'Candidate Culture-Calibrated Digital Biomarker System',
-    meta: 'Gebrauchsmuster, DPMA · May 2026',
+    kind: 'Utility model · Named inventor',
+    title: 'Digital Biomarker System for Culture-Calibrated ADHD Diagnosis',
+    meta: 'Gebrauchsmuster, DPMA · Filed May 2026',
   },
   {
-    kind: 'Patent · Named inventor',
-    title: 'GlaceGrip',
-    meta: 'Gebrauchsmuster, DPMA · May 2026',
-  },
-  {
-    kind: 'Patent · Named inventor',
-    title: 'Bed Device with Integrated Weighing Function for Immobile Patients',
-    meta: 'Gebrauchsmuster, DPMA · May 2026',
+    kind: 'Utility model · Named inventor',
+    title: 'Gla\u00e9Grip: Cooling Steering Wheel Sleeve',
+    meta: 'Gebrauchsmuster, DPMA · Registered August 2026',
   },
   {
     kind: 'Preprint',
     title:
-      'Designing from the Inside: Design Rationale for a Culture-Calibrated Digital Biomarker System for Adult ADHD Diagnosis',
+      'Designing from the Inside: A Design Rationale and Process Record for a Culture-Calibrated Digital Biomarker System for Adult ADHD Diagnosis',
     meta: 'Koroma, M.W. · Zenodo, May 2026',
   },
 ];
@@ -39,9 +34,9 @@ export default function Publications() {
       <div className="mx-auto max-w-content">
         <SectionHeader
           index="03"
-          eyebrow="Publications, Patents & Research"
+          eyebrow="Publications, Utility Models & Research"
           title="Building for what the data leaves out"
-          intro="A peer-reviewed credit, filed patents, and preprints, most of it pointed at one question: how do you measure an experience a system was never designed to register?"
+          intro="A peer-reviewed credit, filed utility models, and preprints, most of it pointed at one question: how do you measure an experience a system was never designed to register?"
           dark
         />
 

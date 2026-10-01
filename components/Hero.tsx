@@ -14,7 +14,7 @@ export default function Hero() {
           </p>
 
           <h1 className="mt-6 font-display text-[2.7rem] font-light leading-[1.02] tracking-tight text-ink sm:text-6xl md:text-7xl">
-            Physician.
+            MD candidate.
             <br />
             Researcher.
             <br />

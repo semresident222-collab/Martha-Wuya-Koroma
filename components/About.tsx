@@ -3,11 +3,11 @@ import Reveal from './Reveal';
 
 const CREDENTIALS = [
   { label: 'MD candidate', value: 'November 2026' },
-  { label: 'Good Clinical Practice', value: 'ICH-GCP · E6(R3)' },
+  { label: 'Good Clinical Practice', value: 'ICH-GCP' },
   { label: 'Peer-reviewed', value: 'The Lancet Psychiatry, 2025' },
-  { label: 'Trial experience', value: 'Phase 3 operations' },
-  { label: 'Named inventor', value: 'Three filed patents (DPMA)' },
-  { label: 'Founder', value: 'MetaVoxa & GlaceGrip' },
+  { label: 'Trial experience', value: 'Phase 3 observer (remote)' },
+  { label: 'Named inventor', value: 'Two utility models (DPMA)' },
+  { label: 'Founder', value: 'MetaVoxa & Gla\u00e9Grip' },
 ];
 
 export default function About() {
@@ -51,7 +51,7 @@ export default function About() {
               <p>
                 So my work runs along a single thread, even when the titles
                 don&rsquo;t match. Clinical research taught me how systems are
-                meant to work. Patents and a doctoral research programme taught
+                meant to work. Original research and utility-model filings taught
                 me how to build for the people those systems fail to see. The
                 writing names what the data leaves out. It all does the same
                 job from different angles: surfacing what systems don&rsquo;t

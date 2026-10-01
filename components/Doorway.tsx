@@ -45,16 +45,16 @@ export default function Doorway() {
                 The professional record lives here.
                 <br />
                 <span className="italic text-gilt-bright">
-                  The rest of me lives at MetaVoxa.
+                  The rest of me lives in the Atrium.
                 </span>
               </h2>
               <p className="mt-6 max-w-prose font-body text-base leading-relaxed text-parchment/85 md:text-lg">
-                MetaVoxa Atrium is the house: reading &amp; writing, editorial cartography,
+                The Atrium is the house: reading &amp; writing, editorial cartography,
                 interdependent community and the work that doesn&rsquo;t fit on a CV.
                 Everything that made the record possible, kept in its own rooms.
               </p>
               <a
-                href="https://metavoxa.com"
+                href="https://atrium.marthakoroma.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group mt-9 inline-flex items-center gap-3 rounded-full bg-parchment px-7 py-3.5 font-mono text-xs uppercase tracking-eyebrow text-ink transition-all hover:bg-gilt-bright hover:text-ink"

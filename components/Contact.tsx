@@ -40,10 +40,12 @@ export default function Contact() {
             </h2>
 
             <a
-              href="mailto:marthakoroma722@gmail.com"
+              href="https://www.linkedin.com/in/martha-koroma-67a28b191/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group mt-9 inline-flex items-center gap-3 font-display text-xl italic text-gilt-bright transition-colors hover:text-parchment md:text-2xl"
             >
-              marthakoroma722@gmail.com
+              Message me on LinkedIn
               <span className="transition-transform group-hover:translate-x-1.5">
                 &rarr;
               </span>

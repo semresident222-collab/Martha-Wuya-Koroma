@@ -5,7 +5,7 @@ const LIFECYCLE = ['Qualification', 'Initiation', 'Monitoring', 'Safety', 'Close
 
 const ROLES = [
   {
-    role: 'Phase 3 Clinical Trial Observer',
+    role: 'Phase 3 Clinical Trial Observer (remote)',
     org: 'Inductive Quotient',
     period: '7 months',
     points: [
@@ -17,11 +17,11 @@ const ROLES = [
   {
     role: 'International Research Collaborator',
     org: 'Global Suicide Prevention Network / The Lancet Psychiatry',
-    period: '2024 to 2025',
+    period: '2021 to 2024',
     points: [
-      'Led primary data collection and quality assessment across assigned countries in a 105-country study; applied source data verification and quality-control methodology across diverse site environments.',
+      'Led primary data collection and quality assessment for four assigned countries in a 105-country study.',
       'Named collaborator on the peer-reviewed publication (The Lancet Psychiatry, 2025).',
-      'Assessed data completeness and accuracy; contributed findings to Bayesian statistical modelling across 105 countries.',
+      'Contributed to assessment of service effectiveness and resilience within the study\u2019s Bayesian statistical modelling framework.',
     ],
   },
   {
@@ -29,9 +29,9 @@ const ROLES = [
     org: 'Berlin, Germany',
     period: 'May 2025 to Present',
     points: [
-      'Produced a monitoring-plan redesign for a Phase III oncology trial, with IPCW-adjusted survival analysis and an irAE rechallenge protocol, anchored in ICH E6(R2), E9, E9(R1), and FDA adaptive design guidance.',
+      'Proposed an adaptive monitoring framework for a Phase III oncology trial (KEYNOTE-991 analysis, published openly on Zenodo), with IPCW-adjusted survival analysis and an irAE rechallenge protocol, anchored in ICH E6(R2), E9, E9(R1), and FDA adaptive design guidance.',
       'Completed hands-on EDC training (Medidata Rave, REDCap) and CTMS (Veeva) through the Johns Hopkins Clinical Trial Operations specialisation.',
-      'Maintained study documentation aligned with TMF standards; applied ICH-GCP principles to protocol analysis and regulatory review.',
+      'Applied ICH-GCP principles to protocol analysis and regulatory review; learned ISF/TMF filing requirements as a trial observer.',
     ],
   },
 ];

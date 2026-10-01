@@ -11,20 +11,20 @@ const SITE_URL = 'https://marthakoroma.com';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: 'Martha Wuya Koroma · Physician, Researcher, Systems Thinker',
+  title: 'Martha Wuya Koroma · MD Candidate, Researcher, Systems Thinker',
   description:
-    'Physician-researcher and MD candidate based in Berlin. ICH-GCP & E6(R3) certified, named collaborator in The Lancet Psychiatry, named inventor on two filed patents. Clinical research, healthcare systems, and the work of surfacing what systems don\u2019t see.',
+    'Final-year MD candidate based in Berlin. Named collaborator on a Lancet Psychiatry study, Phase 3 trial observer, and founder of MetaVoxa. Clinical research, healthcare systems, and the work of surfacing what systems don\u2019t see.',
   keywords: [
     'Martha Koroma',
     'Martha Wuya Koroma',
     'Clinical Research Associate',
-    'physician researcher',
+    'MD candidate researcher',
     'ICH-GCP',
     'Lancet Psychiatry',
     'healthcare systems',
     'Berlin',
     'MetaVoxa',
-    'MetaVoxa Atrium',
+    'Atrium',
     'MetaVoxa Press',
     'Neurodivergent',
     'ADHD Digital Biomarker',
@@ -32,9 +32,9 @@ export const metadata: Metadata = {
   authors: [{ name: 'Martha Wuya Koroma' }],
   alternates: { canonical: SITE_URL },
   openGraph: {
-    title: 'Martha Wuya Koroma · Physician, Researcher, Systems Thinker',
+    title: 'Martha Wuya Koroma · MD Candidate, Researcher, Systems Thinker',
     description:
-      'Physician-researcher and MD candidate in Berlin. Clinical research, healthcare systems, and the work of surfacing what systems don\u2019t see.',
+      'Final-year MD candidate in Berlin. Clinical research, healthcare systems, and the work of surfacing what systems don\u2019t see.',
     url: SITE_URL,
     siteName: 'Martha Wuya Koroma',
     locale: 'en_US',
@@ -50,9 +50,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Martha Wuya Koroma · Physician, Researcher, Systems Thinker',
+    title: 'Martha Wuya Koroma · MD Candidate, Researcher, Systems Thinker',
     description:
-      'Physician-researcher and MD candidate in Berlin. Surfacing what systems don\u2019t see.',
+      'Final-year MD candidate in Berlin. Surfacing what systems don\u2019t see.',
     images: ['/images/martha-hero.jpg'],
   },
   robots: { index: true, follow: true, 'max-image-preview': 'large' },
@@ -68,7 +68,7 @@ export default function RootLayout({
     '@type': 'Person',
     name: 'Martha Wuya Koroma',
     url: SITE_URL,
-    jobTitle: 'Physician-Researcher',
+    jobTitle: 'MD Candidate and Researcher',
     address: {
       '@type': 'PostalAddress',
       addressLocality: 'Berlin',
