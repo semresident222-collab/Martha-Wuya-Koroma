@@ -3,7 +3,7 @@ import Reveal from './Reveal';
 
 const CREDENTIALS = [
   { label: 'MD candidate', value: 'November 2026' },
-  { label: 'Good Clinical Practice', value: 'ICH-GCP' },
+  { label: 'Good Clinical Practice', value: 'ICH-GCP · E6(R3)' },
   { label: 'Peer-reviewed', value: 'The Lancet Psychiatry, 2025' },
   { label: 'Trial experience', value: 'Phase 3 observer (remote)' },
   { label: 'Named inventor', value: 'Two utility models (DPMA)' },
