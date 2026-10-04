@@ -11,8 +11,11 @@ My work runs along a single thread, even when the titles don't match. Clinical r
 WHAT'S HERE
 
 Clinical Research & Trial Governance Independent governance analyses of high-profile clinical trials — the Scene Bible in three parts: 
+
 Door 1 — ADUHELM (Aducanumab) — Neurology / Regulatory. How independent evidence evaluation became optional during approval. Proposes an Independent Evidence Integrity Unit (IEIU) with DMC Governance Lock and Sponsor-Regulator Interaction Audit Trail. 
+
 Door 2 — KEYNOTE-991 (Pembrolizumab + Enzalutamide) — Oncology. Cytotoxic chemotherapy assumptions applied to immune checkpoint biology. Proposes Adaptive Futility Boundary with immunotherapy-aware conditional power, plus Integrated Safety-Efficacy Monitoring with IPCW analysis and structured irAE rechallenge. 
+
 Door 3 — Adult ADHD Digital Biomarker Feasibility — CNS / Neurodevelopmental. Phase II site feasibility for a digital biomarker-aided diagnostic protocol targeting adult West African women with unrecognised ADHD in Berlin. Three-tier biomarker battery with GDPR Article 9 privacy-by-design architecture.
 
 RESEACH AND PUBLICATIONS
