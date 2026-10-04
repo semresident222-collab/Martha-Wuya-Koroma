@@ -3,7 +3,7 @@ import Reveal from './Reveal';
 
 const PRACTICE = {
   role: 'Healthcare Assistant ',
-  org: 'Vivantes Hauptstadtpflege · Berlin',
+  org: 'Vivantes · Berlin',
   period: 'Sept 2024 to Present',
   points: [
     'Clinical patient records and safety protocols under German regulatory standards, in a high-volume inpatient environment.',
