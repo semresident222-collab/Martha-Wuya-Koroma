@@ -12,7 +12,7 @@ const ENTRIES = [
   },
   {
     kind: 'Utility model · Named inventor',
-    title: 'Digital Biomarker System for Culture-Calibrated ADHD Diagnosis',
+    title: 'Candidate Digital Biomarker System for Culture-Calibrated ADHD Diagnosis',
     meta: 'Gebrauchsmuster, DPMA · Filed May 2026',
   },
   {
@@ -34,7 +34,7 @@ const ENTRIES = [
   {
     kind: 'Selected presentation',
     title: 'Falling Walls Lab Berlin-Adlershof',
-    meta: 'Selected through application to pitch · Presented a culture-calibrated digital biomarker system for adult ADHD in 3 minutes · July 2026',
+    meta: 'Selected Competitor · Presented a candidate culture-calibrated digital biomarker system for adult women with ADHD in 3 minutes · July 2026',
   },
   {
     kind: 'Preprint',
