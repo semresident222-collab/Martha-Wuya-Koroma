@@ -5,7 +5,7 @@ const LIFECYCLE = ['Qualification', 'Initiation', 'Monitoring', 'Safety', 'Close
 
 const ROLES = [
   {
-    role: 'Phase 3 Clinical Trial Observer (remote)',
+    role: 'Phase 3 Clinical Trial Observer ',
     org: 'Inductive Quotient',
     period: '7 months',
     points: [
