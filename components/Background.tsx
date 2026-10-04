@@ -2,7 +2,7 @@ import SectionHeader from './SectionHeader';
 import Reveal from './Reveal';
 
 const PRACTICE = {
-  role: 'Healthcare Assistant (Pflegekraft)',
+  role: 'Healthcare Assistant ',
   org: 'Vivantes Hauptstadtpflege · Berlin',
   period: 'Sept 2024 to Present',
   points: [
@@ -19,7 +19,7 @@ const EDUCATION = [
     note: 'Continued via clinical placements in Germany.',
   },
   {
-    title: 'Cybersecurity certificate',
+    title: 'Postgraduate Cybersecurity ',
     org: 'Careerera',
     period: '2023 to 2024',
     note: '',
@@ -43,7 +43,7 @@ const BACKGROUND = [
     title: 'Founder',
     org: 'MetaVoxa, Berlin (in formation)',
     period: '2023 to Present',
-    note: 'Digital health research and publishing platform with three arms (Press, Research, Labs). A holding structure is planned. Building GDPR-aligned health-data architecture for a planned candidate digital biomarker validation pilot.',
+    note: 'Digital health research Institution and publishing platform with three arms (Press, Research, Labs). A holding structure is planned. Building GDPR-aligned health-data architecture for a planned candidate digital biomarker validation pilot.',
   },
   {
     title: 'Founder',
@@ -73,7 +73,7 @@ const CERTS = [
   'Drug Development & Product Management · UC San Diego (via Coursera)',
   'Google Data Analytics',
   'AWS Training & Certification',
-  'Clinical Trials: Good Clinical Practice (ICH E6 GCP Investigator Site Training) \u00b7 Novartis via Coursera, 2025',
+  'Clinical Trials: Good Clinical Practice (ICH E6 GCP Investigator Site Training) \u00b7 Novartis, 2025',
   'Good Clinical Practice: ICH E6(R3) Principles · FreeGCP.com (TransCelerate-recognised curriculum), 2026',
 ];
 
